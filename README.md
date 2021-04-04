@@ -1,6 +1,6 @@
 # Django App for web scraping using Beautifulsoup
 
-![Python 3.7.3](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Django 3.1.7](https://img.shields.io/badge/Django-3.1.7-skyblue.svg)
+![Python 3.7.3](https://img.shields.io/badge/Python-3.7.3-brightgreen.svg) ![Django 3.1.7](https://img.shields.io/badge/Django-3.1.7-skyblue.svg)
 
 • A simple and basic Web application to scrape the product price for tracking purpose.
 
