@@ -4,7 +4,7 @@
 
 • A simple and basic Web application to scrape the product price for tracking purpose.
 
-• It helps you in understanding of **_Beautifulsoup_** and **_requests_** library with headers contains **_User-Agent_** information.
+• It helps you in understanding of **_Beautifulsoup_** and **_requests_** library with headers contains "**_User-Agent_**" information.
 
 • Know your User-Agent here "https://whatmyuseragent.com/" and add the value to headers section in utils module.
 
